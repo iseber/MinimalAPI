@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPI.DataAccess", "MinimalAPI.DataAccess\MinimalAPI.DataAccess.csproj", "{FDF8C2BA-252C-4369-B2FA-4E6B23AF2A94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPI.WebApi", "MinimalAPI.WebApi\MinimalAPI.WebApi.csproj", "{7CE24DE4-8210-4D8E-810A-4F070F5D51EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF8C2BA-252C-4369-B2FA-4E6B23AF2A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF8C2BA-252C-4369-B2FA-4E6B23AF2A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF8C2BA-252C-4369-B2FA-4E6B23AF2A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF8C2BA-252C-4369-B2FA-4E6B23AF2A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE24DE4-8210-4D8E-810A-4F070F5D51EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE24DE4-8210-4D8E-810A-4F070F5D51EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE24DE4-8210-4D8E-810A-4F070F5D51EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE24DE4-8210-4D8E-810A-4F070F5D51EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
