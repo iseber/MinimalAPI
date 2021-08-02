@@ -183,3 +183,4 @@ output/
 .localhistory/
 .vs/
 .idea/
+.DS_Store
